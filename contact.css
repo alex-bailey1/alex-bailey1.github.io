@@ -1,3 +1,20 @@
 .box {
     outline: 1px solid black;
 }
+
+.nav_box_item {
+    background-color: lightgreen;
+}
+
+.a_box {
+    display: block;
+    
+    
+}
+
+.a_box:hover {
+    background-color:green;
+    color: darkblue;
+}
+
+
