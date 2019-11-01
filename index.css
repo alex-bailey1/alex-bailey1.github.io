@@ -17,5 +17,13 @@
     color: darkblue;
 }
 
+body {
+    /* image src: https://unsplash.com/photos/RPT3AjdXlZc*/
+    background-image: url("mountains.jpeg");
+    background-size: 500px 300px;
+}
 
+.text_area {
+    background-color: white;
+}
 

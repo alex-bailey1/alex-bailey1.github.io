@@ -18,3 +18,11 @@
 }
 
 
+body {
+    background-image: url("starry_sky.jpeg");
+    background-size: 500px 300px;
+}
+
+.text_area {
+    background-color: white;
+}
