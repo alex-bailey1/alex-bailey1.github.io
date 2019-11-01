@@ -19,6 +19,7 @@
 
 
 body {
+    /* image src: https://unsplash.com/photos/pq2DJBntZW0 */
     background-image: url("starry_sky.jpeg");
     background-size: 500px 300px;
 }

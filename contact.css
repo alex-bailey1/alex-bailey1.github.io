@@ -18,3 +18,12 @@
 }
 
 
+body {
+    /* image src: https://unsplash.com/photos/xP_AGmeEa6s */
+    background-image: url("sunset.jpeg");
+    background-size: 500px 300px;
+}
+
+.text_area {
+    background-color: white;
+}
